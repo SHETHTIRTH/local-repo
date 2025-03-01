@@ -1,3 +1,6 @@
 this is local system text file
 
 i changed text file "u can see me only in br1" .
+
+to compare commits,branches,files and more of 2 different branch :
+        git diff and branchname("another branch then u currently present")
